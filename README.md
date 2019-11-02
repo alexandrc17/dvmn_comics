@@ -21,6 +21,6 @@ pip install -r requirements.txt
  3. Внести туда переменные access_token и group_id вида:
  ```
  group_id=id_вашей_группы,
- token=ваш_Implict_Flow_Token
+ token_vk=ваш_Implict_Flow_Token
 
  ```
